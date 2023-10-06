@@ -24,10 +24,6 @@ To run this project locally, follow these steps:
 3. Install dependencies: `yarn`
 4. Start the development server: `yarn run dev`
 
-## Contributing
-
-We welcome contributions from the community! If you'd like to contribute to the project, please follow the [Contributing Guidelines](CONTRIBUTING.md).
-
 ## Acknowledgments
 
 Special thanks to all the contributors and team members on this project!

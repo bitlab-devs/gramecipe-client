@@ -19,8 +19,8 @@ Welcome to the frontend/client repository of Gramicipe!, this is the server-side
 
 To run this project locally, follow these steps:
 
-1. Clone the repository: `git clone https://github.com/Sydney205/gramecipe.git`
-2. Navigate to the project directory: `cd gramicipe`
+1. Clone the repository: `git clone https://github.com/bitlab-devs/gramecipe-client`
+2. Navigate to the project directory: `cd gramicipe-client`
 3. Install dependencies: `yarn`
 4. Start the development server: `yarn run dev`
 

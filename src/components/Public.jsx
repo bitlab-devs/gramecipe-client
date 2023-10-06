@@ -5,7 +5,7 @@ const Public = () => {
     <>
       <Navbar />
       <section className="w-full min-h-screen flex justify-center items-center">
-        <h1>Welcome to Gramicipe</h1>
+        <h1 className="font-2xl text-indigo-600">Welcome to Gramicipe</h1>
       </section>
     </>
   );

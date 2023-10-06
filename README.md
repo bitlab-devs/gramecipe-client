@@ -26,7 +26,7 @@ To run this project locally, follow these steps:
 
 ## Contributing
 
-We welcome contributions from the community! If you'd like to contribute to the project, please follow our [Contributing Guidelines](CONTRIBUTING.md).
+We welcome contributions from the community! If you'd like to contribute to the project, please follow the [Contributing Guidelines](CONTRIBUTING.md).
 
 ## Acknowledgments
 

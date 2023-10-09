@@ -27,6 +27,6 @@ To contribute to the project, please follow these steps:
 
 ## Reporting Issues
 
-If you find a bug, have a feature request, or encounter any issues while using the app, please open an issue on the GitHub repository. We appreciate your feedback!
+If you find a bug, have a feature request, or encounter any issues while using the app, please open an issue on the GitHub repository. Your feedbacks are appreciated!
 
-Thank you for your contributions and support in making the Recipe Sharing App even better!
+Thank you for your contributions and support in making the **Gramicipe** even better!

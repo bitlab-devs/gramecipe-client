@@ -12,7 +12,6 @@ dist
 dist-ssr
 *.local
 .env
-CODE_CONDUCT.md
 
 # Editor directories and files
 .vscode/*

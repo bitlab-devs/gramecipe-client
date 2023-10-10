@@ -1,3 +1,10 @@
+/**
+ * Signup form Component
+ * 
+ * 
+ * @route "/signup"
+ */
+
 import { useState, useEffect } from "react";
 
 // Regular Expression(REGEX)
@@ -151,6 +158,7 @@ const SignupForm = () => {
           />
         </div>
 
+        {/* Submit button */}
         <button
           type="submit"
           disabled={!validName || !validEmail || !validPasswd ? true : false}

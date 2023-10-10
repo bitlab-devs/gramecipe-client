@@ -23,7 +23,10 @@ To contribute to the project, please follow these steps:
 
 8. **Create a Pull Request**: Go to the original repository on GitHub and click the "New Pull Request" button. Describe your changes and submit the pull request.
 
-9. **Review and Feedback**: The maintainers will review your pull request, provide feedback, and make necessary changes. Be open to collaboration and improvement.
+9. **Review and Feedback**: The maintainers will review your pull request, provide feedback, and approve and merge request if okay, else dissaprove if it doesn't meet the standard or requirements. Be open to collaboration and improvement.
+
+## Code of conduct
+Be sure to check our code of conduct for this project before contributing.
 
 ## Reporting Issues
 
